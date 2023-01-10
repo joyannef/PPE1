@@ -1,2 +1,2 @@
 Projet << Dépendance >> -
-5.11.22: Toutes les URLS pour le projet ont été mises dans le dépôt.
+Recherche sur les occurrences du mot dépendance dans les langues : français, anglais, coréen, japonais, et chinois.
